@@ -185,6 +185,7 @@ $ python3 brute_force.py --userfile users.txt --passfile pass.txt
 
 [*] Browser closed
 ```
+<img width="552" height="203" alt="image" src="https://github.com/user-attachments/assets/ecedb098-ade9-44bf-bf1d-3bcf7e98efa8" />
 
 ## Sample Files Included
 
